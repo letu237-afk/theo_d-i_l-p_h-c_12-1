@@ -1,4 +1,4 @@
-# theo_d-i_l-p_h-c_12-1
+# theo_doi_lop_12_1
 <!DOCTYPE html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><title>ClassTrack</title>
 <style>
 :root{--navy:#0B2545;--teal:#13A89E;--bg:#F3F6FA;--card:#fff;--tx:#14213D;--mut:#5C6B80;--bd:#DDE4EC;--ok:#168a4a;--warn:#b86e00;--bad:#c62f3a;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
